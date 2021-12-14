@@ -1,0 +1,20 @@
+.idea/
+.pyc
+__pycache__
+.ipynb_checkpoints
+data/raw/udacity*
+data/clean
+data/test
+data/validation
+data/train
+data/models
+model.tar.gz
+xgboost-model
+.pages
+.docx
+.png
+.zip
+xgb.fmap
+demographic_attributes enhanced(AutoRecovered).xlsx
+DIAS Attributes - Values 2017 Enhanced(AutoRecovered).xlsx
+tree0.png
