@@ -1,15 +1,15 @@
 ## Udacity Machine Learning Engineer Nanodegree
 
 ---
-##Capstone Project
-####Created by: Juanita Smith
-####Last date: 13 Dec 2021
+## Capstone Project
+#### Created by: Juanita Smith
+#### Last date: 13 Dec 2021
 
 ---
 
 
 
-##Customer Segmentation Report for Arvato Financial Services
+## Customer Segmentation Report for Arvato Financial Services
 
 
 
