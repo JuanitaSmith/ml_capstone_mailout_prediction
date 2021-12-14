@@ -1,9 +1,9 @@
 ## Udacity Machine Learning Engineer Nanodegree
 
 ---
-##Capstone Project
-####Created by: Juanita Smith
-####Last date: 13 Dec 2021
+## Capstone Project
+#### Created by: Juanita Smith
+#### Last date: 13 Dec 2021
 
 ---
 
