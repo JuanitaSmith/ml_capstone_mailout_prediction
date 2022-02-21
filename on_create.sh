@@ -36,7 +36,7 @@ pip install --quiet ipykernel
 
 #pip3 install -r requirements.txt
 #conda install --yes --file requirements.txt
-#while read requirement; do conda install --yes $requirement || pip install $requirement; done < requirements2.txt
+#while read requirement; do conda install --yes $requirement || pip install $requirement; done < requirements2.txtcon
 
 conda install --yes pandas==1.3.4
 conda install --yes numpy==1.21.2
