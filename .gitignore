@@ -7,7 +7,6 @@ data/clean
 data/test
 data/validation
 data/train
-data/models
 model.tar.gz
 xgboost-model
 .pages
